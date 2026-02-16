@@ -1,5 +1,4 @@
 # Tindog
-Link: https://susobhan01.github.io/Tindog/
 
 # 🐶 TinDog – Dog Dating App Landing Page
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,9 +13,9 @@ The project focuses on clean UI, responsive design, and smooth navigation—simi
 
 ---
 
-## 🚀 Live Preview
-*(Optional – add your deployed link here)*  
-🔗 https://your-username.github.io/tindog/
+##  Live Preview
+ 
+🔗 https://susobhan01.github.io/Tindog/
 
 ---
 
